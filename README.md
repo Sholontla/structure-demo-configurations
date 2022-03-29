@@ -1,6 +1,6 @@
 # structure-demo
 . Structure Demo
-As part of my CV "code" experience I been added this Structure Demo and is always growing, change, and use for testing and more and as part of this chage new ideas are being implemented and to understad the full Demo Structure please visit the diagram: 
+As part of my CV "code" experience I been added this Structure Demo and is always growing, change, and use for testing and more and as part of this chage new ideas are being implemented and to understad the full Demo Structure please visit the diagram: https://github.com/Sholontla/structure-demo-configurations/blob/main/diagram-demo.pdf
 
 In the repo: 
 all the structure is been tidy by the next order:
